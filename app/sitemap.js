@@ -1,5 +1,5 @@
 export default function sitemap() {
-const baseUrl = "https://e-mosjid-blog-page-tc74-git-921070-md-ismails-projects-9e10c918.vercel.app";
+const baseUrl = "https://e-mosjid-blog-page-hnuy.vercel.app";
 
   return [
     {
