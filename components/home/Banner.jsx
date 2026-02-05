@@ -32,7 +32,7 @@ export default function Banner() {
         <p className="mt-4 text-center text-base md:text-lg max-w-2xl">
           Maklumat ini disediakan sebagai panduan kepada mana-mana orang yang
           ingin membuat permohonan menggunakan Sistem Pengurusan Smart Masjid
-          MAIS
+          
         </p>
 
         {/* Buttons Row */}

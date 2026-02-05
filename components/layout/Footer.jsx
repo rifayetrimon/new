@@ -24,7 +24,7 @@ export default function Footer() {
           {/* Text & Social Icons */}
           <div className="text-left w-full">
             <h3 className="text-2xl font-semibold">
-              Majlis Agama Islam Selangor (MAIS)
+              eMasjid Portal(abc)
             </h3>
 
             <p className="text-base text-gray-200 mt-4 leading-relaxed">
@@ -45,10 +45,10 @@ export default function Footer() {
               Phone Number : +603-5514 3512 / 3513
             </a>
             <a
-              href="mailto:tauliah@mais.gov.my"
+              href="mailto:tauliah@abc.gov.my"
               className="block text-base text-gray-200 mt-1"
             >
-              e-mel : tauliah@mais.gov.my
+              e-mel : tauliah@abc.gov.my
             </a>
 
             {/* Social Icons */}
