@@ -24,7 +24,7 @@ export const metadata = {
     canonical: "/",
   },
   verification: {
-    google: "VwRSVoSz5uqnXdFxtAIT6c7OGyMBP6dZ0JZ7_jXRaD8",
+    google: "9mpKkGC0f2m8HLGf1Jhi12a9elD2Ya4kgpn1KTEPNX8"
   },
   icons: {
     icon: assetPath("/icons/url_icon.svg"),
