@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://e-mosjid-blog-page.vercel.app"),
+  metadataBase: new URL("https://new-delta-gray.vercel.app/"),
   title: {
     default: "Portal eMasjid | Sistem Pengurusan Masjid Selangor",
     template: "%s | Portal eMasjid"
@@ -37,17 +37,17 @@ export default function RootLayout({ children }) {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "Portal eMasjid Selangor",
-    "url": "https://e-mosjid-blog-page.vercel.app",
+    "url": "https://new-delta-gray.vercel.app",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://e-mosjid-blog-page.vercel.app/carian-masjid?q={search_term_string}",
+      "target": "https://new-delta-gray.vercel.app/carian-masjid?q={search_term_string}",
       "query-input": "required name=search_term_string"
     },
     "hasPart": [
-      { "@type": "WebPage", "name": "Info eMasjid", "url": "https://e-mosjid-blog-page.vercel.app/info-emasjid" },
-      { "@type": "WebPage", "name": "Carian Masjid", "url": "https://e-mosjid-blog-page.vercel.app/carian-masjid" },
-      { "@type": "WebPage", "name": "Semakan Permohonan", "url": "https://e-mosjid-blog-page.vercel.app/semakan-permohonan" },
-      { "@type": "WebPage", "name": "Soalan Lazim", "url": "https://e-mosjid-blog-page.vercel.app/soalan-lazim" }
+      { "@type": "WebPage", "name": "Info eMasjid", "url": "https://new-delta-gray.vercel.app/info-emasjid" },
+      { "@type": "WebPage", "name": "Carian Masjid", "url": "https://new-delta-gray.vercel.app/carian-masjid" },
+      { "@type": "WebPage", "name": "Semakan Permohonan", "url": "https://new-delta-gray.vercel.app/semakan-permohonan" },
+      { "@type": "WebPage", "name": "Soalan Lazim", "url": "https://new-delta-gray.vercel.app/soalan-lazim" }
     ]
   };
 

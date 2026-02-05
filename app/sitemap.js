@@ -1,5 +1,5 @@
 export default function sitemap() {
-const baseUrl = `https://e-mosjid-blog-page.vercel.app`;
+  const baseUrl = `https://new-delta-gray.vercel.app`;
 
   return [
     {

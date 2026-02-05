@@ -4,5 +4,6 @@ export default function robots() {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: `https://e-mosjid-blog-page.vercel.app/sitemap.xml`  };
+    sitemap: `https://new-delta-gray.vercel.app/sitemap.xml`
+  };
 }
